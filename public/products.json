@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "Adidas Final UCL Ball",
+      "imageURL": "https://images.unsplash.com/photo-1589487391730-58f20eb2c308?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8Zm9vdGJhbGx8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "price": 3000.0,
+      "description": "This is a football"
+    },
+    {
+      "id": 2,
+      "name": "Acer Nitro 5",
+      "imageURL": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "price": 55000.0,
+      "description": "This is a laptop"
+    },
+    {
+      "id": 3,
+      "name": "Nike Mercurial Superfly",
+      "imageURL": "https://media.gettyimages.com/id/52556982/photo/1-bl-03-04-sv-werder-bremen-feature-ailton.jpg?s=2048x2048&w=gi&k=20&c=SQ9bCxTTzw3Nv_9ZZees-HtoH_zhE9FvVZkkKRiOyQY=",
+      "price": 4500.0,
+      "description": "These are football boots"
+    },
+    {
+      "id": 4,
+      "name": "Sony PlayStation 5",
+      "imageURL": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGxheXN0YXRpb24lMjA1fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "price": 50000.0,
+      "description": "This is a gaming console"
+    },
+    {
+      "id": 5,
+      "name": "Apple iPhone 13",
+      "imageURL": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-2.jpg",
+      "price": 80000.0,
+      "description": "This is a smartphone"
+    },
+    {
+      "id": 6,
+      "name": "Canon EOS R5",
+      "imageURL": "https://www.camera-rumors.com/wp-content/uploads/2020/07/Canon-EOS-R5-sample-images-scaled.jpg",
+      "price": 40000.0,
+      "description": "This is a camera"
+    },
+    {
+      "id": 7,
+      "name": "Samsung 55-inch 4K TV",
+      "imageURL": "https://www.nexus.com.bd/images/detailed/5/Samsung_55_Inch_4K_Smart_LED_TV.jpg",
+      "price": 35000.0,
+      "description": "This is a television"
+    },
+    {
+      "id": 8,
+      "name": "Fitbit Charge 4",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqg_hsJoTiBrKqIjUHwQOlY7bsLcqN08VqoV8mNqJs&s",
+      "price": 2000.0,
+      "description": "This is a fitness tracker"
+    },
+    {
+      "id": 9,
+      "name": "Dell XPS 13",
+      "imageURL": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9315/media-gallery/notebook-xps-9315-nt-blue-gallery-3.psd?fmt=pjpg&pscan=auto&scl=1&wid=4108&hei=2874&qlt=100,1&resMode=sharp2&size=4108,2874&chrss=full&imwidth=5000",
+      "price": 60000.0,
+      "description": "This is a laptop"
+    },
+    {
+      "id": 10,
+      "name": "Bose QuietComfort 35 II",
+      "imageURL": "https://images.unsplash.com/photo-1521747116042-5a810fda9664?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTR8fGJvc2UlMjBxdWlldGNvbXBvbmVudCUyMGNoYXJnZSUyMHByb2R1Y3Rpb258ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "price": 25000.0,
+      "description": "These are headphones"
+    },
+    {
+      "id": 11,
+      "name": "Nike Air Max 270",
+      "imageURL": "https://media.istockphoto.com/id/1096035138/photo/beautiful-young-couple-relaxing-after-hiking-and-taking-a-break.jpg?b=1&s=612x612&w=0&k=20&c=b6uSchGzwR2-q2CvdAF7BdCIcqEisu6i1ZMj8NQ3FUI=",
+      "price": 4000.0,
+      "description": "These are sneakers"
+    },
+    {
+      "id": 12,
+      "name": "LG UltraWide Monitor",
+      "imageURL": "https://images.pexels.com/photos/38568/apple-imac-ipad-workplace-38568.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 45000.0,
+      "description": "This is a computer monitor"
+    },
+    {
+      "id": 13,
+      "name": "Fitbit Versa 3",
+      "imageURL": "https://images.pexels.com/photos/759960/pexels-photo-759960.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 3500.0,
+      "description": "This is a smartwatch"
+    },
+    {
+      "id": 14,
+      "name": "Asus ROG Strix G15",
+      "imageURL": "https://images.pexels.com/photos/15838208/pexels-photo-15838208/free-photo-of-close-up-of-gaming-desk.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 65000.0,
+      "description": "This is a gaming laptop"
+    },
+    {
+      "id": 15,
+      "name": "Samsung Galaxy Tab S7",
+      "imageURL": "https://images.pexels.com/photos/221185/pexels-photo-221185.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 40000.0,
+      "description": "This is a tablet"
+    },
+    {
+      "id": 16,
+      "name": "JBL Flip 5",
+      "imageURL": "https://images.pexels.com/photos/12745010/pexels-photo-12745010.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 3000.0,
+      "description": "This is a portable speaker"
+    },
+    {
+      "id": 17,
+      "name": "Razer DeathAdder V2",
+      "imageURL": "https://images.pexels.com/photos/7915268/pexels-photo-7915268.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 2500.0,
+      "description": "This is a gaming mouse"
+    },
+    {
+      "id": 18,
+      "name": "Amazon Echo Dot",
+      "imageURL": "https://images.pexels.com/photos/4790264/pexels-photo-4790264.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 1500.0,
+      "description": "This is a smart speaker"
+    },
+    {
+      "id": 19,
+      "name": "HP Pavilion 15",
+      "imageURL": "https://images.pexels.com/photos/3761513/pexels-photo-3761513.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 55000.0,
+      "description": "This is a laptop"
+    },
+    {
+      "id": 20,
+      "name": "Nike Air Jordan 1",
+      "imageURL": "https://images.pexels.com/photos/1192027/pexels-photo-1192027.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 7000.0,
+      "description": "These are basketball shoes"
+    }
+  ]
+  
